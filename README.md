@@ -34,32 +34,38 @@ The dashboard analyzes sales, outlet performance, item types, fat content, outle
 | Total Sales | $1.20M |
 | Number of Items | 8,523 |
 
-## 📊 Dashboard
+## 📊 Dashboard Preview
 
 ![Blinkit Dashboard](dashboard.png)
 
 ## 📈 Dashboard Features
 
 ### Outlet Establishment
+
 - Sales trend based on outlet establishment year
 - Identifies changes in sales over time
 
 ### Outlet Size
+
 - Comparison of sales across different outlet sizes
 
 ### Outlet Location
+
 - Tier 1
 - Tier 2
 - Tier 3
 
 ### Outlet Type
+
 - Supermarket Type 1
 - Supermarket Type 2
 - Supermarket Type 3
 - Grocery Store
 
 ### Item Type
+
 Analysis of:
+
 - Fruits & Vegetables
 - Snack Foods
 - Household
@@ -76,6 +82,7 @@ Analysis of:
 - Starchy Foods
 
 ### Fat Content
+
 - Low Fat
 - Regular
 
@@ -95,7 +102,7 @@ The dashboard contains interactive filters for:
 - Supermarket Type 1 has the highest total sales.
 - Tier 3 outlets have the highest sales among the location tiers.
 - Fruits & Vegetables and Snack Foods are among the highest item categories.
-- Sales vary significantly based on outlet establishment year.
+- Sales vary based on outlet establishment year.
 
 ## 🧹 Data Cleaning
 
