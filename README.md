@@ -45,9 +45,6 @@ The dashboard analyzes sales, outlet performance, item types, fat content, outle
 
 ---
 
-## 📊 Dashboard Preview
-
-![Blinkit Dashboard](dashboard.png)
 
 ---
 
@@ -141,14 +138,49 @@ Data cleaning and transformation were performed using **Power Query**.
 
 ---
 
-## 📂 Project Structure
+## 🔗 Project Files & Dataset
 
-```text
-Blinkit-Sales-Analysis/
-│
-├── README.md
-├── dashboard.png
-├── Blinkit_Sales_Analysis.pbix
-│
-└── data/
-    └── Blinkit_Sales.csv
+https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI
+
+---
+
+## 🚀 How to Run
+
+1. Open the Google Drive link above.
+2. Download the project files.
+3. Install **Microsoft Power BI Desktop**.
+4. Open the `.pbix` file.
+5. If required, update the dataset path.
+6. Refresh the data.
+7. Use the dashboard filters to explore the analysis.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Data Analysis
+- Business Reporting
+
+---
+
+## 📌 Project Information
+
+**Project Type:** Data Analytics / Business Intelligence
+
+**Domain:** Retail / Quick Commerce
+
+**Primary Tool:** Microsoft Power BI
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving this repository a ⭐.
