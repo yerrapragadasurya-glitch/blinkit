@@ -6,13 +6,19 @@ This project is an interactive **Blinkit Sales Analysis Dashboard** created usin
 
 The dashboard analyzes sales, outlet performance, item types, fat content, outlet size, outlet location, ratings, and item visibility.
 
-## 🛠️ Tools Used
+---
+
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX
 - Data Cleaning
+- Data Transformation
 - Data Visualization
+- Business Intelligence
+
+---
 
 ## 🎯 Objectives
 
@@ -24,47 +30,56 @@ The dashboard analyzes sales, outlet performance, item types, fat content, outle
 - Analyze fat content
 - Analyze outlet ratings
 - Identify high-performing outlets
+- Create an interactive business dashboard
+
+---
 
 ## 📌 Key KPIs
 
 | KPI | Value |
 |---|---:|
-| Average Rating | 3.9 |
-| Average Sales | 141 |
-| Total Sales | $1.20M |
-| Number of Items | 8,523 |
+| ⭐ Average Rating | 3.9 |
+| 💰 Average Sales | 141 |
+| 💵 Total Sales | $1.20M |
+| 📦 Number of Items | 8,523 |
+
+---
 
 ## 📊 Dashboard Preview
 
 ![Blinkit Dashboard](dashboard.png)
 
+---
+
 ## 📈 Dashboard Features
 
-### Outlet Establishment
+### 🏪 Outlet Establishment
 
 - Sales trend based on outlet establishment year
-- Identifies changes in sales over time
+- Comparison of outlet performance over time
 
-### Outlet Size
+### 📏 Outlet Size
 
-- Comparison of sales across different outlet sizes
+- High-size outlets
+- Medium-size outlets
+- Small-size outlets
 
-### Outlet Location
+### 📍 Outlet Location
 
 - Tier 1
 - Tier 2
 - Tier 3
 
-### Outlet Type
+### 🏬 Outlet Type
 
 - Supermarket Type 1
 - Supermarket Type 2
 - Supermarket Type 3
 - Grocery Store
 
-### Item Type
+### 🛍️ Item Type
 
-Analysis of:
+The dashboard analyzes:
 
 - Fruits & Vegetables
 - Snack Foods
@@ -81,18 +96,22 @@ Analysis of:
 - Others
 - Starchy Foods
 
-### Fat Content
+### 🥛 Fat Content
 
 - Low Fat
 - Regular
 
-## 🎛️ Filters
+---
 
-The dashboard contains interactive filters for:
+## 🎛️ Interactive Filters
+
+The dashboard contains filters for:
 
 - Outlet Location Type
 - Outlet Size
 - Item Type
+
+---
 
 ## 🔍 Key Insights
 
@@ -101,22 +120,26 @@ The dashboard contains interactive filters for:
 - Total number of items is **8,523**.
 - Supermarket Type 1 has the highest total sales.
 - Tier 3 outlets have the highest sales among the location tiers.
-- Fruits & Vegetables and Snack Foods are among the highest item categories.
+- Fruits & Vegetables and Snack Foods are among the leading item categories.
 - Sales vary based on outlet establishment year.
+
+---
 
 ## 🧹 Data Cleaning
 
 Data cleaning and transformation were performed using **Power Query**.
 
-Steps included:
+### Steps Performed
 
-- Handling missing values
-- Removing inconsistencies
-- Changing data types
-- Standardizing categorical values
-- Data transformation
-- Creating calculated columns
-- Preparing data for visualization
+- Handled missing values
+- Removed inconsistencies
+- Changed data types
+- Standardized categorical values
+- Transformed data
+- Created calculated columns
+- Prepared data for visualization
+
+---
 
 ## 📂 Project Structure
 
